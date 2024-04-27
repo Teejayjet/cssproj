@@ -1,0 +1,55 @@
+h1{
+    text-align: center;
+    color: red;
+}
+
+section{margin:20px 20px}
+
+
+.navbar ul{
+    list-style-type: none;
+    background-color: red;
+    padding: 0px;
+    margin: 0px;
+    overflow: hidden;
+    
+    
+}
+
+.navbar a{
+    color: white;
+    text-decoration: none;
+    padding: 15px;
+    display: block;
+    text-align: center;
+    float: left;
+}
+
+.navbar a:hover{
+    background-color: brown;
+}
+
+footer{
+            background-color: red;
+            height: 100px;
+            text-align: center;
+            font-family:"Roboto", sans-serif;
+            padding-top: 35px;
+}
+
+.taiwo{
+    color: red;
+}
+
+
+body{
+    background-color: brown;
+}
+
+button{
+    background-color: brown;
+}
+
+button:hover{
+    background-color: aqua;
+}
